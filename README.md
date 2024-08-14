@@ -36,7 +36,7 @@ To start the application:
 npm run start
 ```
 
-The application should now be running on the default port (e.g., `http://localhost:3000`).
+The application should now be running on the default port `http://localhost:3000`.
 
 ## Usage
 
@@ -60,7 +60,7 @@ The Chatbot API provides endpoints for handling inquiries, searching products, a
 curl --location 'http://localhost:3000/chatbot' \
 --header 'Content-Type: application/json' \
 --data '{
-    "query": "How many Canadian Dollars are 350 Euros"
+    "query": "How many Canadian Dollars are 350 Euros?"
 }'
 ```
 
