@@ -1,6 +1,6 @@
 # Chatbot API
 
-This repository contains the implementation of a Chatbot API using NestJS. The chatbot is designed to handle user inquiries, search for products, and perform currency conversions. 
+This repository contains the implementation of a Chatbot API using NestJS. The chatbot is designed to handle user inquiries, search for products, and perform currency conversions. For evaluating the implementation, you will find the main logical structure of the project in /src/chatbot/chatbot.service.ts
 
 ## Features
 
